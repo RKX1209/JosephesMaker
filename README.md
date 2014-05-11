@@ -1,4 +1,6 @@
 java-JoseMaker
 ==============
 
-Josephes maker
+Josephus maker ver2.0
+
+author: @RKX1209
